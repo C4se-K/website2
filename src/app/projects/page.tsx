@@ -1,6 +1,6 @@
 
 import ResumeSection from "@/components/Projects/ResumeSection";
-import NavBar from "@/components/NavBar";
+
 
 const projects = [
     {id : 1, title: "project 1 "},
