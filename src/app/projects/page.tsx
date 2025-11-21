@@ -11,7 +11,7 @@ const projects = [
 ];
 
 
-export default function ProjectsPage() {
+export default function Projects() {
   return (
     <div className = "p-8 flex flex-col gap-16 w-full max-w-6xl mx-auto">
 
